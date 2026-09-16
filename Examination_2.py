@@ -6,7 +6,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
 n = int(input("number: "))
 if n == 6:
  print("Even")
